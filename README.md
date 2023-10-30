@@ -1,3 +1,6 @@
+# Video :
+Link: https://drive.google.com/drive/folders/1RLxbtXJGpo3VYD6a0szXwzHl7ClBpE-A?usp=sharing
+
 Inventory app
 ==================================
 
